@@ -1,4 +1,4 @@
-package tower;
+package weather;
 
 import aircraft.Flyable;
 import java.util.ArrayList;
